@@ -6,3 +6,6 @@ generated_maps/
 generated_mockups/
 mpcs/
 tiled_images/
+designing/*
+base_images/*
+swatches/*

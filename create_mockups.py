@@ -17,8 +17,8 @@ for i, file in enumerate(files):
         [
             'sh',
             'generate_mockup.sh',
-            'base_images/template.jpg',
-            'base_images/mask.png',
+            'base_images/template.jpeg',
+            'base_images/mask_1.png',
             os.path.join('tiled_images', file),
             'maps/displacement_map.png',
             'maps/lighting_map.png',
